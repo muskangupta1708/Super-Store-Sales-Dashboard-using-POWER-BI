@@ -42,6 +42,7 @@ Retail stakeholders needed:
 ##  Skills & Tools Demonstrated
 
 **Tools:** Power BI, Power Query, DAX, Excel
+
 **Skills:**
 
 * Data Cleaning & Transformation
