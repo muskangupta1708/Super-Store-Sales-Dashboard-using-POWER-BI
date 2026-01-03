@@ -54,7 +54,8 @@ Retail stakeholders needed:
 
 ##  Dashboards
 
-**Sales Performance Dashboard** <img src="Screenshot (82).png" width="900"/>
+**Sales Performance Dashboard** <D:\muskan\power BI\power bi project\super store sales project>
+
 
 **15-Day Sales Forecast Dashboard** <img src="Screenshot (83).png" width="900"/>
 
