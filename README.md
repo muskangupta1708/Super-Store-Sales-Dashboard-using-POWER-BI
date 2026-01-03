@@ -62,12 +62,12 @@ Retail stakeholders needed:
 
 ---
 
-## 🎯 Why This Project Matters
+##  Why This Project Matters
 
-✔ Shows ability to translate **raw data into business insights**
-✔ Demonstrates **real-world retail analytics use case**
-✔ Combines **descriptive + predictive analytics**
-✔ Designed for **executives and decision-makers**
+ *Shows ability to translate **raw data into business insights**
+ *Demonstrates **real-world retail analytics use case**
+ *Combines **descriptive + predictive analytics**
+ *Designed for **executives and decision-makers**
 
 ---
 
