@@ -54,7 +54,7 @@ Retail stakeholders needed:
 
 ##  Dashboards
 
-**Sales Performance Dashboard** <D:\muskan\power BI\power bi project\super store sales project>
+**Sales Performance Dashboard** https://github.com/muskangupta1708/Super-Store-Sales-Dashboard-using-POWER-BI/blob/47036557c86f978f203778c8f53628138cd31db6/DASHBOARD.png
 
 
 **15-Day Sales Forecast Dashboard** <img src="Screenshot (83).png" width="900"/>
