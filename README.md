@@ -57,7 +57,7 @@ Retail stakeholders needed:
 **Sales Performance Dashboard**![image alt](https://github.com/muskangupta1708/Super-Store-Sales-Dashboard-using-POWER-BI/blob/47036557c86f978f203778c8f53628138cd31db6/DASHBOARD.png)
 
 
-**15-Day Sales Forecast Dashboard** <img src="Screenshot (83).png" width="900"/>
+**15-Day Sales Forecast Dashboard** ![image alt](https://github.com/muskangupta1708/Super-Store-Sales-Dashboard-using-POWER-BI/blob/586dcf368ef15bea805e62116ce997646bb53159/SALES%20FORECASTING.png)
 
 ---
 
